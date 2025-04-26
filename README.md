@@ -1,3 +1,9 @@
+# Google Form Attendance Counter for AttendoBot
+
+This script is designed to process Google Form attendance spreadsheets used in conjunction with the [AttendoBot Discord bot](https://github.com/WilsonnnTan/AttendoBot.git). It helps automate attendance management for Discord communities using Google Forms and AttendoBot.
+
+---
+
 # Attendance Counter
 
 This Python script processes an attendance CSV file (such as those exported from Google Forms) and generates two reports:
